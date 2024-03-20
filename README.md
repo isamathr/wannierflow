@@ -23,7 +23,7 @@ The workflow
 4. Generates a plot of wannier functions on the top of the band structure ontained with VASP, allowing faster quality assessment. 
 5. Can recognise missing parts in the process of the calculation and resubmit the necessary steps, without intervention
 
-More details can be found in the Notes.pdf file.
+More details can be found in the [Notes.pdf](https://github.com/isamathr/wannierflow/blob/main/Notes.pdf) file.
 
 ## Prerequisites <a name="prerequisites"></a>
 1. Install Python3 (at least 3.6) directly from its website https://www.python.org/downloads/
